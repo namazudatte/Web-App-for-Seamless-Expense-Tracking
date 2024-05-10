@@ -22,7 +22,7 @@ Aplikasi untuk membantu anggota dan masyarakat untuk mengatur keuangan dengan ba
 ## Install
 1. Clone the repository
 ```bash
-git clone git@github.com:andikatuluspangestu/paynote-web.git
+https://github.com/namazudatte/Web-App-for-Seamless-Expense-Tracking.git
 ```
 
 2. Install the dependencies
