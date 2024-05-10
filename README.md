@@ -1,9 +1,8 @@
-## PayNote Web App
+## Web App for Seamless Expense Tracking
 
-This is a web application that allows users to keep track of their expenses and income. It is a simple and easy to use application that allows users to add, edit, and delete their transactions. The application also provides a summary of the user's transactions and a chart to visualize the user's expenses and income.
+Aplikasi untuk membantu anggota dan masyarakat untuk mengatur keuangan dengan baik dengan membuat data pengeluaran dan pemasukan sehingga dari data yanga ada dapat membantu anggota dan masyarakat untuk mengambil keputusan yang bijak dalam mengatur keuangan yang baik.
 
-## Preview 
-|![image](https://ucarecdn.com/50520629-fd42-4290-8cbb-fd4092e477db/paynote.png)|![image](https://ucarecdn.com/812dc1e9-ca0e-4517-893c-5a77f6e5724f/Screenshot_20240219_123233.png)|![image](https://ucarecdn.com/ad3f3411-175e-4111-bb08-29a6ff1a3c1d/Screenshot_20240219_123356.png)|
+
 |---|---|---|
 
 ## Technologies Used
@@ -13,15 +12,14 @@ This is a web application that allows users to keep track of their expenses and 
 - Bootstrap 5
 - SASS
 
-## Features
-- Add, edit, and delete transactions
-- Summary of transactions
+## Features progres
+- tambah kategori, pengeluaran dan pemasukan
 - Responsive design
 - User authentication
 - User registration
 - Etc.
 
-## Installation
+## Install
 1. Clone the repository
 ```bash
 git clone git@github.com:andikatuluspangestu/paynote-web.git
